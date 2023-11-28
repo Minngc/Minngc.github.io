@@ -1,7 +1,14 @@
 [
   {
-    "name": "Ming Blog",
-    "link": "./",
-    "avatar": "/images/avatar.jpg"
+    "name": "Moroshima's Blog",
+    "link": "https://yunagi.dev",
+    "avatar": "https://q1.qlogo.cn/g?b=qq&s=640&nk=2524332942",
+    "description": "哈！这都让我知道你是左人了！"
+  },
+  {
+    "name": "Brethland's Blog",
+    "link": "https://typ.moe",
+    "avatar": "/avatar/brethland.jpg",
+    "description": "大萌神可爱捏🥰"
   }
 ]

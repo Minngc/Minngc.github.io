@@ -20,12 +20,6 @@ const nextConfig = {
   reactStrictMode: true,
   images: {
     unoptimized: true,
-    remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "q1.qlogo.cn",
-      },
-    ],
   },
 };
 
